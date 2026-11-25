@@ -2,7 +2,7 @@
 
 <img src="./assets/robotics-banner.gif" alt="Animated radar banner: Pourya Ghasemi | Robotics, Control and AI" width="100%" />
 
-# Pourya Ghasemi 👋
+# Pourya Ghasemi 
 
 ### 🎓 Electrical Engineering (Control Systems) · 🤖 Robotics & Autonomous Systems
 
