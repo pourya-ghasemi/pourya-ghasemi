@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pourya_info_.gif" alt="Pourya Ghasemi | Robotics, Machine Learning and Control" width="100%" />
+<img src="assets/Pourya_info_.gif" alt="Pourya Ghasemi | Robotics, Machine Learning and Control" width="100%" />
 
 # Pourya Ghasemi
 
@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pourya.ghasemi03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pourya-ghasemi)
 
-**Think in systems · Learn through implementation · Validate with evidence**
+**MODEL. LEARN. CONTROL. BUILD AUTONOMY.**
 
 </div>
 
@@ -157,7 +157,6 @@ I'm interested in graduate study and research opportunities related to **robotic
 
 ### `MODEL. LEARN. CONTROL. BUILD AUTONOMY.`
 
-<sub>Thanks for visiting · Always exploring the space between control, learning, and intelligent machines.</sub>
+<sub>Pourya Ghasemi · Robotics, Machine Learning & Intelligent Control</sub>
 
 </div>
-<img width="1600" height="520" alt="pourya_info_" src="https://github.com/user-attachments/assets/bb7c3a94-3e7d-4836-a888-70a0d4b0529d" />
