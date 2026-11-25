@@ -1,3 +1,4 @@
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/6b90c817-6f09-425c-aff4-d2e7a0aaadbe" />
 <div align="center">
   <img src="./assets/robotics-banner.svg" alt="Pourya Ghasemi | Robotics, Control and Autonomous Systems" width="100%" />
   <h1>Pourya Ghasemi</h1>
