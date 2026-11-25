@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Pourya_info_.gif" alt="Pourya Ghasemi | Robotics, Machine Learning and Control" width="100%" />
+<img src="assets/pourya_info_.gif" alt="Pourya Ghasemi | Robotics, Machine Learning and Control" width="100%" />
 
 # Pourya Ghasemi
 
