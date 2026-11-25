@@ -97,8 +97,6 @@ A hardware-oriented project integrating an ARM development board, webcam input, 
   <img src="https://img.shields.io/badge/Quartus%20II-0071C5?style=flat-square" alt="Quartus II" />
 </p>
 
-<sub>Tools listed here reflect coursework and project use; proficiency varies by tool.</sub>
-
 ## 🏅 Highlights
 
 - **Teaching Assistant**, Linear Control Systems Laboratory — University of Zanjan, 2026.
