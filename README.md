@@ -127,28 +127,6 @@ Robotics has been a long-standing interest of mine, shaped by hands-on building 
 | 🎓 **B.Sc. in Electrical Engineering (Control Systems)** | University of Zanjan, Iran |
 | 🤖 **Robotics Association Leadership** | Led the University of Zanjan Robotics Association · 2023–2025 |
 
-## 🏅 Selected Highlights
-
-- 🥈 **Second Place, Kharazmi Competitions (Provincial Level), 2016** — built a tracked rescue robot as a middle-school student.
-- 🏅 **Academic Progress Award, University of Zanjan, 2026.**
-- 🧑‍⚖️ Organized robotics workshops and two editions of a path-finding robot competition; also served as a competition judge.
-
-## ⚙️ Engineering Approach
-
-```text
-DEFINE THE PROBLEM
-        ↓
-MODEL THE SYSTEM
-        ↓
-IMPLEMENT THE IDEA
-        ↓
-MEASURE & DEBUG
-        ↓
-VERIFY THE RESULT
-```
-
-I value clear assumptions, sound engineering fundamentals, reproducible experiments, and honest reporting of limitations. A result matters when its method can be understood, tested, and independently checked.
-
 ## 🧠 How I Think
 
 I’m drawn to problems where theory meets reality. I turn complex ideas into models, experiments, and working systems, refining each step through evidence rather than assumptions. **Curiosity sets the direction; rigorous execution earns the result.**
